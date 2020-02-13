@@ -2,6 +2,8 @@
 
 This is an exercise where we will build a mock media player UI. The user will be able to interact with it to play/stop and change between songs. We are going to accomplish it by using JavaScript to add interaction to the UI.
 
+![Media Player](https://i.imgur.com/68leJ5c.png)
+
 ## Languages
 
 We are going to use the following languages for this task:
